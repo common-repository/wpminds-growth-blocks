@@ -1,0 +1,136 @@
+body .Hero-outter {
+	padding: 0;
+}
+.block-editor-inner-blocks {
+	background: #f1f1f1;
+	padding: 10px 20px;
+	margin: 10px 0;
+}
+.RichTextrole.rich-text {
+	padding: 20px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+.edit-post-sidebar .block-editor-rich-text__editable.rich-text {
+	margin: 20px 0;
+	border: 1px solid;
+	padding: 10px;
+}
+.wp-block-create-block-captain-theme-block {
+	background-color: #21759b;
+	color: #fff;
+	padding: 2px;
+}
+.Value-1section {
+	padding: 0 50px;
+
+	ul {
+		margin: 0;
+		padding: 0;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		
+		li {
+			list-style: none;
+			padding: 30px;
+		}
+	}
+	h3{
+		color: unset;
+	}
+}
+body:not(.full-width-content) .alignfull {
+    margin: unset;
+    max-width: unset;
+    width: unset;
+}
+.editor-post-featured-image {
+	margin-bottom: 20px;
+}
+.col-inner-5 {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	img {
+		width: 18%;
+	}
+}
+.col-3 {
+	display: flex;
+	justify-content: space-between;
+	.col-inner-3 {
+		width: 32%;
+	}
+}
+.Hero-1section {
+	border: 2px solid #ccc;
+	padding: 50px;
+	h2{
+		margin-top: 0;
+	}
+}
+.Priceisns .editor-post-featured-image {
+    max-width: 150px;
+    width: 100%;
+}
+.Priceisns .col-inner-3 {
+	border: 2px solid #ccc;
+    padding: 0 10px;
+    margin: 20px 0;
+    width: 100%;
+    background: #fff;
+}
+.Priceisns .rich-text {
+    margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+}
+.Priceisns .col-inner-3  > label {
+    background: #ccc;
+    display: block;
+    margin: 0 -10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.col-2 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.col-2 .col-inner-2 {
+	width: 48%;
+}
+.img-text-section .col-2 {
+	flex-direction: row-reverse;
+}
+.col-inner-35-70 {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+.col-inner-35-70 img {
+	width: 35%;
+}
+.col-inner-2-cont {
+	width: 60%;
+}
+button.components-button.editor-post-featured-image__preview {
+	padding: 20px 0;
+} 
+.Hero-outtertest {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    padding: 10px;
+    margin: 20px 0px;
+    background: rgb(255, 255, 255);
+}
+
+.Hero-outtertest .editor-post-featured-image {
+    max-width: 150px;
+}

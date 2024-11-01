@@ -1,0 +1,22 @@
+
+{
+	"name": "wpminds-growth-blocks",
+	"title": "WPMinds  Growth Blocks",
+	"version": "2.2.1",
+	"description": "WPMinds  Growth Blocks is a collection of page building blocks for the Gutenberg block editor.",
+	"author": "WPMinds ",
+	"license": "GPLv2 or later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^27.3.0"
+	}
+}

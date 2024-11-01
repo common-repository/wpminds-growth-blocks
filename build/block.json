@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "create-block/wpminds-growth-blocks",
+  "version": "2.2.1",
+  "title": "WPMinds Growth Blocks",
+  "description": "Effortlessly build and customize stunning web pages with WPMinds Growth Blocks - a collection of lightweight and easily customizable page-building blocks designed specifically for the Gutenberg block editor.",
+  "category": "widgets",
+  "icon": "superhero",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "wpminds-growth-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
